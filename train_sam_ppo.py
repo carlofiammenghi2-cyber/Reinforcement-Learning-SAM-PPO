@@ -12,7 +12,7 @@ import yaml
 import time
 from normalization import Normalization, RewardScaling
 from replaybuffer import ReplayBuffer
-from sam_ppo_continuous_efficient import PPO_continuous
+from sam_ppo_continuous import PPO_continuous
 from torch.distributions import Uniform
 from pprint import pprint
 

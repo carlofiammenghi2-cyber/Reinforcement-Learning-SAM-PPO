@@ -1,5 +1,5 @@
 env: Walker2d-v4
-max_train_steps: 1000000
+max_train_steps: 3000000
 batch_size: 2048
 mini_batch_size: 64
 K_epochs: 10
